@@ -6,3 +6,6 @@
 
 ## System Design:
 - https://github.com/checkcheckzz/system-design-interview
+
+## C++:
+- https://juejin.cn/post/6918743404197183501
